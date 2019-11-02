@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061850404553",
+    "firebase_url": "https://study-mode-app.firebaseio.com",
+    "project_id": "study-mode-app",
+    "storage_bucket": "study-mode-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061850404553:android:f4c5d17f9f99a6d2529f18",
+        "android_client_info": {
+          "package_name": "cssquad.com.study_mode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061850404553-a06a91h7a8moiogjjhm8fsb7evkj9h17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIOCsx_9UETaOqv4_HxBbdTzCxZwTQiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061850404553-a06a91h7a8moiogjjhm8fsb7evkj9h17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
