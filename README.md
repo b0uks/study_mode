@@ -12,8 +12,8 @@
 
 ### Prerequisites
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (version X.X.X or higher)
-- [Dart SDK](https://dart.dev/get-dart) (version X.X.X or higher)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
 
 ### Installation
 
